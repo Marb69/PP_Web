@@ -4,7 +4,7 @@ import About from "../../Sections/About";
 
 const Main = () => {
   return (
-   <main className=" mt-15">
+   <main className=" mt-10">
 
      <Home/>
      <About/>

@@ -25,7 +25,7 @@ const Nav = ({ toggle }) => {
 
       <Button
         className={
-          "bg-[#7AAACE] text-[#EEE8E8] hover:bg-blue-700 transition-all ease-in-out duration-150 cursor-pointer mt-3 lg:mt-0 lg:rounded-4xl "
+          "bg-[#7AAACE] text-[#EEE8E8] hover:bg-blue-400 transition-all ease-in-out duration-150 cursor-pointer mt-3 lg:mt-0 lg:rounded-4xl "
         }
         context={"contact Me"}
       />
